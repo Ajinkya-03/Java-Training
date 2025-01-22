@@ -6,7 +6,7 @@ public class Runtime1{
         Runtime r = Runtime.getRuntime();
             System.out.println(r.totalMemory());
             System.out.println(r.freeMemory());
-            for(int i=0 ; i<1000 ; i++)
+            for(int i=0 ; i<122300 ; i++)
             {
                 Date d = new Date();
                 d=null;
