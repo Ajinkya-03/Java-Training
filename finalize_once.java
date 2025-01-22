@@ -19,8 +19,5 @@ public class finalize_once {
 
         }
     }
-         public void finallize()
-        {
-             System.out.println("i m in finalize");
-        }
+
     
