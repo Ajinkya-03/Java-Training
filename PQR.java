@@ -27,5 +27,3 @@ public class PQR implements ABC,XYZ
         XYZ.super.m1();
     }
 }
-
-
