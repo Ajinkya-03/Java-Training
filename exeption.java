@@ -1,4 +1,3 @@
-import java.io.PrintWriter;
 
 public class exeption {
     public static void main(String[] args)
@@ -11,3 +10,5 @@ public class exeption {
     }
 
     // OUTPUT - Exception in thread "main" java.lang.ArithmeticException: / by zero
+
+    
