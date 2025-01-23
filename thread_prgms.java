@@ -1,4 +1,4 @@
-// 2 wyas to create thread : 
+// 2 ways to create thread : 
     // 1) --- By extended wya
     // 2) --- By Runnable interface
 
