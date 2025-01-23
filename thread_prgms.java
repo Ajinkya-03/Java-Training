@@ -1,3 +1,8 @@
+// 2 wyas to create thread : 
+    // 1) --- By extended wya
+    // 2) --- By Runnable interface
+
+
 class Mythread extends Thread {
     
     @Override
