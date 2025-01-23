@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+import java.util.*;
 public record array_list() {
     public static void main(String[] args)
     {
